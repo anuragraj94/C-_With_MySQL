@@ -1,0 +1,17 @@
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\bin\Debug\Mysql.exe.config
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\bin\Debug\Mysql.exe
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\bin\Debug\Mysql.pdb
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\bin\Debug\Google.Protobuf.dll
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\bin\Debug\MySql.Data.dll
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\bin\Debug\Renci.SshNet.dll
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\bin\Debug\MySql.Data.xml
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\obj\Debug\Mysql.csprojAssemblyReference.cache
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\obj\Debug\Mysql.Form1.resources
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\obj\Debug\Mysql.Properties.Resources.resources
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\obj\Debug\Mysql.csproj.GenerateResource.cache
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\obj\Debug\Mysql.csproj.CoreCompileInputs.cache
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\obj\Debug\Mysql.csproj.CopyComplete
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\obj\Debug\Mysql.exe
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\obj\Debug\Mysql.pdb
+C:\Users\AE TELELINK\source\repos\MySQL\Mysql\obj\Debug\Mysql.frmNext.resources
